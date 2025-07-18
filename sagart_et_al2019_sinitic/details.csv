@@ -1,0 +1,8 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name,Family_ID,Classification
+SiniticBeijing,SiniticBeijing,,,,beij1235,,,Beijingic,sino1245,sino1245/sini1245/clas1255/midd1354/nort3155/mand1471/mand1415
+SiniticChaozhou,SiniticChaozhou,,23.666667,116.633333,chao1238,,,Chaozhou,sino1245,sino1245/sini1245/minn1248/coas1318/minn1241/chao1239
+SiniticGuangzhou,SiniticGuangzhou,,23.1253503,112.9476548,guan1279,,,Guangzhou,sino1245,sino1245/sini1245/clas1255/midd1354/yuep1234/yuec1235/yueh1236/cant1236
+SiniticJieyang,SiniticJieyang,,,,chao1239,,,Chaoshan,sino1245,sino1245/sini1245/minn1248/coas1318/minn1241
+SiniticLonggang,SiniticLonggang,,25,116,hakk1236,,,Hakka Chinese,sino1245,sino1245/sini1245/clas1255/midd1354
+SiniticOldChinese,SiniticOldChinese,,36.12,114.32,oldc1244,,,Old Chinese,sino1245,sino1245/sini1245
+SiniticXingning,SiniticXingning,,25,116,hakk1236,,,Hakka Chinese,sino1245,sino1245/sini1245/clas1255/midd1354

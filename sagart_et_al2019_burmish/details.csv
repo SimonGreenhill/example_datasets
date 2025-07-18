@@ -1,0 +1,9 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name,Family_ID,Classification
+BurmishAchang,BurmishAchang,,24.3479,97.7438,acha1249,,,Longchuan Achang,sino1245,sino1245/burm1265/lolo1265/burm1266/sout3159/acha1252
+BurmishAtsi,BurmishAtsi,,24.1726,98.3643,zaiw1241,,,Zaiwa,sino1245,sino1245/burm1265/lolo1265/burm1266/nort2720/maru1254
+BurmishBola,BurmishBola,,24.2142,97.9183,pela1242,,,Pela,sino1245,sino1245/burm1265/lolo1265/burm1266/nort2720/maru1254
+BurmishLashi,BurmishLashi,,26.0992,98.5481,lash1243,,,Lashi,sino1245,sino1245/burm1265/lolo1265/burm1266/nort2720/maru1254/leqi1234
+BurmishMaru,BurmishMaru,,24.942535,99.8338,maru1249,,,Maru,sino1245,sino1245/burm1265/lolo1265/burm1266/nort2720/maru1254
+BurmishOldBurmese,BurmishOldBurmese,,21.161961,94.897306,oldb1235,,,Old Burmese,sino1245,sino1245/burm1265/lolo1265/burm1266/sout3159/mran1234/nucl1811
+BurmishRangoon,BurmishRangoon,,20.7926,93.9665,nucl1310,,xd709,Burmese,sino1245,sino1245/burm1265/lolo1265/burm1266/sout3159/mran1234/nucl1811
+BurmishXiandao,BurmishXiandao,,24.5458,97.9052,xian1249,,,Xiandao,sino1245,sino1245/burm1265/lolo1265/burm1266/sout3159/acha1252/acha1249
