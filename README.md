@@ -141,3 +141,13 @@
 * Data:       [7 languages, 465 Lexical Cognates](sagart_et_al2019_sinitic/data.nex)
 
 ---
+## walker_and_ribeiro2011_arawakan
+
+> Walker RS & Ribeiro LA. 2011. Bayesian phylogeography of the Arawak expansion in lowland South America. Proceedings of the Royal Society B: Biological Sciences, 278(1718), 2562-2567.
+
+* DOI:        [10.1098/rspb.2010.2579](https://doi.org/10.1098/rspb.2010.2579)
+* PDF:        [walker_and_ribeiro2011_arawakan.pdf](walker_and_ribeiro2011_arawakan/paper.pdf)
+* Details:    [Language Details CSV](walker_and_ribeiro2011_arawakan/details.csv)
+* Data:       [60 languages, 694 Lexical Cognates](walker_and_ribeiro2011_arawakan/data.nex)
+
+---
