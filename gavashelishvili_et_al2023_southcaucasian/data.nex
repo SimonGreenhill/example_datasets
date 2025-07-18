@@ -1,0 +1,1257 @@
+#NEXUS
+BEGIN TAXA;
+DIMENSIONS NTAX=5;
+TAXLABELS Modern_Georgian Old_Georgian Svan Megrelian Laz;
+END;
+BEGIN DATA;
+DIMENSIONS NCHAR=987;
+FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="01";
+CHARSTATELABELS 
+    1 fire0, 
+    2 fire1, 
+    3 fire2, 
+    4 nose0, 
+    5 nose1, 
+    6 nose2, 
+    7 go_come0, 
+    8 go_come1, 
+    9 go_come2, 
+    10 go_come3, 
+    11 go_come4, 
+    12 go_come5, 
+    13 go_come6, 
+    14 go_come7, 
+    15 water0, 
+    16 water1, 
+    17 water2, 
+    18 mouth0, 
+    19 mouth1, 
+    20 mouth2, 
+    21 tongue0, 
+    22 tongue1, 
+    23 blood0, 
+    24 blood1, 
+    25 bone0, 
+    26 bone1, 
+    27 bone2, 
+    28 you_SG0, 
+    29 you_SG1, 
+    30 root0, 
+    31 root1, 
+    32 root2, 
+    33 root3, 
+    34 breast0, 
+    35 breast1, 
+    36 breast2, 
+    37 rain0, 
+    38 rain1, 
+    39 rain2, 
+    40 I_me0, 
+    41 I_me1, 
+    42 name0, 
+    43 name1, 
+    44 louse0, 
+    45 louse1, 
+    46 wing0, 
+    47 wing1, 
+    48 wing2, 
+    49 wing3, 
+    50 meat0, 
+    51 meat1, 
+    52 meat2, 
+    53 hand0, 
+    54 hand1, 
+    55 hand2, 
+    56 hand3, 
+    57 fly_insect0, 
+    58 fly_insect1, 
+    59 fly_insect2, 
+    60 night0, 
+    61 night1, 
+    62 night2, 
+    63 night3, 
+    64 ear0, 
+    65 ear1, 
+    66 ear2, 
+    67 neck0, 
+    68 neck1, 
+    69 neck2, 
+    70 far0, 
+    71 far1, 
+    72 far2, 
+    73 far3, 
+    74 do0, 
+    75 do1, 
+    76 do2, 
+    77 do3, 
+    78 do4, 
+    79 do5, 
+    80 house0, 
+    81 house1, 
+    82 house2, 
+    83 house3, 
+    84 stone0, 
+    85 stone1, 
+    86 stone2, 
+    87 bitter0, 
+    88 bitter1, 
+    89 bitter2, 
+    90 bitter3, 
+    91 bitter4, 
+    92 say0, 
+    93 say1, 
+    94 say2, 
+    95 say3, 
+    96 say4, 
+    97 say5, 
+    98 tooth0, 
+    99 tooth1, 
+    100 tooth2, 
+    101 hair0, 
+    102 hair1, 
+    103 hair2, 
+    104 big0, 
+    105 big1, 
+    106 big2, 
+    107 one0, 
+    108 one1, 
+    109 one2, 
+    110 who0, 
+    111 who1, 
+    112 who2, 
+    113 it_he_her0, 
+    114 it_he_her1, 
+    115 it_he_her2, 
+    116 hit0, 
+    117 hit1, 
+    118 hit2, 
+    119 hit3, 
+    120 hit4, 
+    121 hit5, 
+    122 hit6, 
+    123 hit7, 
+    124 hit8, 
+    125 hit9, 
+    126 hit10, 
+    127 hit11, 
+    128 hit12, 
+    129 hit13, 
+    130 leg0, 
+    131 leg1, 
+    132 leg2, 
+    133 horn0, 
+    134 horn1, 
+    135 horn2, 
+    136 this0, 
+    137 this1, 
+    138 this2, 
+    139 this3, 
+    140 this4, 
+    141 fish0, 
+    142 fish1, 
+    143 fish2, 
+    144 yesterday0, 
+    145 yesterday1, 
+    146 yesterday2, 
+    147 yesterday3, 
+    148 drink0, 
+    149 drink1, 
+    150 drink2, 
+    151 drink3, 
+    152 black0, 
+    153 black1, 
+    154 black2, 
+    155 navel0, 
+    156 navel1, 
+    157 navel2, 
+    158 stand0, 
+    159 stand1, 
+    160 bite0, 
+    161 bite1, 
+    162 bite2, 
+    163 bite3, 
+    164 back0, 
+    165 back1, 
+    166 back2, 
+    167 back3, 
+    168 back4, 
+    169 back5, 
+    170 wind0, 
+    171 wind1, 
+    172 wind2, 
+    173 wind3, 
+    174 wind4, 
+    175 smoke0, 
+    176 smoke1, 
+    177 smoke2, 
+    178 what0, 
+    179 what1, 
+    180 what2, 
+    181 child0, 
+    182 child1, 
+    183 child2, 
+    184 child3, 
+    185 child4, 
+    186 child5, 
+    187 child6, 
+    188 child7, 
+    189 child8, 
+    190 child9, 
+    191 egg0, 
+    192 egg1, 
+    193 egg2, 
+    194 egg3, 
+    195 give0, 
+    196 give1, 
+    197 give2, 
+    198 new0, 
+    199 new1, 
+    200 burn0, 
+    201 burn1, 
+    202 burn2, 
+    203 burn3, 
+    204 not0, 
+    205 not1, 
+    206 not2, 
+    207 not3, 
+    208 not4, 
+    209 good0, 
+    210 good1, 
+    211 good2, 
+    212 good3, 
+    213 know0, 
+    214 know1, 
+    215 know2, 
+    216 know3, 
+    217 know4, 
+    218 knee0, 
+    219 knee1, 
+    220 knee2, 
+    221 knee3, 
+    222 knee4, 
+    223 sand0, 
+    224 sand1, 
+    225 sand2, 
+    226 sand3, 
+    227 sand4, 
+    228 laugh0, 
+    229 laugh1, 
+    230 laugh2, 
+    231 hear0, 
+    232 hear1, 
+    233 soil0, 
+    234 soil1, 
+    235 soil2, 
+    236 soil3, 
+    237 soil4, 
+    238 leaf0, 
+    239 leaf1, 
+    240 leaf2, 
+    241 leaf3, 
+    242 leaf4, 
+    243 leaf5, 
+    244 red0, 
+    245 red1, 
+    246 red2, 
+    247 liver0, 
+    248 liver1, 
+    249 liver2, 
+    250 hide0, 
+    251 hide1, 
+    252 hide2, 
+    253 hide3, 
+    254 hide4, 
+    255 skin0, 
+    256 skin1, 
+    257 skin2, 
+    258 suck0, 
+    259 suck1, 
+    260 suck2, 
+    261 carry0, 
+    262 carry1, 
+    263 carry2, 
+    264 carry3, 
+    265 ant0, 
+    266 ant1, 
+    267 ant2, 
+    268 heavy0, 
+    269 heavy1, 
+    270 heavy2, 
+    271 heavy3, 
+    272 take0, 
+    273 take1, 
+    274 take2, 
+    275 take3, 
+    276 old0, 
+    277 old1, 
+    278 eat0, 
+    279 eat1, 
+    280 eat2, 
+    281 eat3, 
+    282 thigh0, 
+    283 thigh1, 
+    284 thigh2, 
+    285 thigh3, 
+    286 thick0, 
+    287 thick1, 
+    288 thick2, 
+    289 long0, 
+    290 long1, 
+    291 long2, 
+    292 blow0, 
+    293 blow1, 
+    294 wood0, 
+    295 wood1, 
+    296 wood2, 
+    297 wood3, 
+    298 run0, 
+    299 run1, 
+    300 run2, 
+    301 run3, 
+    302 run4, 
+    303 run5, 
+    304 fall0, 
+    305 fall1, 
+    306 fall2, 
+    307 fall3, 
+    308 fall4, 
+    309 fall5, 
+    310 fall6, 
+    311 eye0, 
+    312 eye1, 
+    313 ash0, 
+    314 ash1, 
+    315 tail0, 
+    316 tail1, 
+    317 dog0, 
+    318 dog1, 
+    319 cry0, 
+    320 cry1, 
+    321 cry2, 
+    322 cry3, 
+    323 tie0, 
+    324 tie1, 
+    325 tie2, 
+    326 see0, 
+    327 see1, 
+    328 see2, 
+    329 see3, 
+    330 sweet0, 
+    331 sweet1, 
+    332 sweet2, 
+    333 sweet3, 
+    334 sweet4, 
+    335 rope0, 
+    336 rope1, 
+    337 shade0, 
+    338 shade1, 
+    339 shade2, 
+    340 shade3, 
+    341 shade4, 
+    342 bird0, 
+    343 bird1, 
+    344 bird2, 
+    345 salt0, 
+    346 salt1, 
+    347 salt2, 
+    348 small0, 
+    349 small1, 
+    350 small2, 
+    351 small3, 
+    352 small4, 
+    353 wide0, 
+    354 wide1, 
+    355 wide2, 
+    356 wide3, 
+    357 star0, 
+    358 star1, 
+    359 star2, 
+    360 star3, 
+    361 star4, 
+    362 in0, 
+    363 in1, 
+    364 hard0, 
+    365 hard1, 
+    366 hard2, 
+    367 hard3, 
+    368 crush0, 
+    369 crush1, 
+    370 crush2, 
+    371 mountain0, 
+    372 mountain1, 
+    373 mountain2, 
+    374 mountain3, 
+    375 mountain4, 
+    376 mountain5, 
+    377 sit0, 
+    378 sit1, 
+    379 sit2, 
+    380 sit3, 
+    381 nail0, 
+    382 nail1, 
+    383 throw0, 
+    384 throw1, 
+    385 throw2, 
+    386 throw3, 
+    387 throw4, 
+    388 throw5, 
+    389 throw6, 
+    390 three0, 
+    391 three1, 
+    392 right0, 
+    393 right1, 
+    394 wash0, 
+    395 wash1, 
+    396 wash2, 
+    397 wash3, 
+    398 grasp0, 
+    399 grasp1, 
+    400 grasp2, 
+    401 grasp3, 
+    402 branch0, 
+    403 branch1, 
+    404 branch2, 
+    405 branch3, 
+    406 branch4, 
+    407 man0, 
+    408 man1, 
+    409 man2, 
+    410 raw0, 
+    411 raw1, 
+    412 raw2, 
+    413 tomorrow0, 
+    414 tomorrow1, 
+    415 tomorrow2, 
+    416 tomorrow3, 
+    417 two0, 
+    418 two1, 
+    419 bottom0, 
+    420 bottom1, 
+    421 bottom2, 
+    422 lie_down0, 
+    423 lie_down1, 
+    424 lie_down2, 
+    425 lie_down3, 
+    426 lie_down4, 
+    427 snake0, 
+    428 snake1, 
+    429 snake2, 
+    430 snake3, 
+    431 cloud0, 
+    432 cloud1, 
+    433 cloud2, 
+    434 cloud3, 
+    435 cloud4, 
+    436 year0, 
+    437 year1, 
+    438 year2, 
+    439 tear0, 
+    440 tear1, 
+    441 tear2, 
+    442 tear3, 
+    443 tear4, 
+    444 ask0, 
+    445 ask1, 
+    446 ask2, 
+    447 weave0, 
+    448 weave1, 
+    449 at0, 
+    450 at1, 
+    451 at2, 
+    452 at3, 
+    453 edge0, 
+    454 edge1, 
+    455 edge2, 
+    456 edge3, 
+    457 edge4, 
+    458 chin0, 
+    459 chin1, 
+    460 chin2, 
+    461 play0, 
+    462 play1, 
+    463 play2, 
+    464 play3, 
+    465 cheek0, 
+    466 cheek1, 
+    467 cheek2, 
+    468 cheek3, 
+    469 pus0, 
+    470 pus1, 
+    471 pus2, 
+    472 pus3, 
+    473 pus4, 
+    474 fly0, 
+    475 fly1, 
+    476 fly2, 
+    477 hole0, 
+    478 hole1, 
+    479 hole2, 
+    480 hole3, 
+    481 grow0, 
+    482 grow1, 
+    483 grow2, 
+    484 grow3, 
+    485 head0, 
+    486 head1, 
+    487 head2, 
+    488 head3, 
+    489 belly0, 
+    490 belly1, 
+    491 belly2, 
+    492 belly3, 
+    493 shoulder0, 
+    494 shoulder1, 
+    495 shoulder2, 
+    496 claw0, 
+    497 claw1, 
+    498 claw2, 
+    499 which0, 
+    500 which1, 
+    501 which2, 
+    502 which3, 
+    503 which4, 
+    504 dig0, 
+    505 dig1, 
+    506 pull0, 
+    507 pull1, 
+    508 pull2, 
+    509 pull3, 
+    510 pull4, 
+    511 pull5, 
+    512 hot0, 
+    513 hot1, 
+    514 hot2, 
+    515 hot3, 
+    516 hot4, 
+    517 firewood0, 
+    518 firewood1, 
+    519 firewood2, 
+    520 remain0, 
+    521 remain1, 
+    522 remain2, 
+    523 remain3, 
+    524 cold0, 
+    525 cold1, 
+    526 cold2, 
+    527 cold3, 
+    528 cold4, 
+    529 feather0, 
+    530 feather1, 
+    531 feather2, 
+    532 cough0, 
+    533 cough1, 
+    534 thin0, 
+    535 thin1, 
+    536 grass0, 
+    537 grass1, 
+    538 grass2, 
+    539 grass3, 
+    540 foam0, 
+    541 foam1, 
+    542 foam2, 
+    543 foam3, 
+    544 foam4, 
+    545 sour0, 
+    546 sour1, 
+    547 sour2, 
+    548 full0, 
+    549 full1, 
+    550 full2, 
+    551 day0, 
+    552 day1, 
+    553 sleep0, 
+    554 sleep1, 
+    555 sleep2, 
+    556 sleep3, 
+    557 month0, 
+    558 month1, 
+    559 white0, 
+    560 white1, 
+    561 white2, 
+    562 sew0, 
+    563 sew1, 
+    564 sew2, 
+    565 sew3, 
+    566 kill0, 
+    567 kill1, 
+    568 kill2, 
+    569 jump0, 
+    570 jump1, 
+    571 jump2, 
+    572 jump3, 
+    573 jump4, 
+    574 jump5, 
+    575 jump6, 
+    576 jump7, 
+    577 throat0, 
+    578 throat1, 
+    579 throat2, 
+    580 throat3, 
+    581 throat4, 
+    582 throat5, 
+    583 forest0, 
+    584 forest1, 
+    585 forest2, 
+    586 there0, 
+    587 there1, 
+    588 there2, 
+    589 find0, 
+    590 find1, 
+    591 find2, 
+    592 find3, 
+    593 find4, 
+    594 find5, 
+    595 flow0, 
+    596 flow1, 
+    597 flow2, 
+    598 flow3, 
+    599 flow4, 
+    600 flow5, 
+    601 many0, 
+    602 many1, 
+    603 many2, 
+    604 many3, 
+    605 many4, 
+    606 chew0, 
+    607 chew1, 
+    608 chew2, 
+    609 chew3, 
+    610 chew4, 
+    611 swallow0, 
+    612 swallow1, 
+    613 swallow2, 
+    614 swallow3, 
+    615 swallow4, 
+    616 wet0, 
+    617 wet1, 
+    618 wet2, 
+    619 wet3, 
+    620 wet4, 
+    621 four0, 
+    622 four1, 
+    623 soft0, 
+    624 soft1, 
+    625 soft2, 
+    626 soft3, 
+    627 look0, 
+    628 look1, 
+    629 look2, 
+    630 look3, 
+    631 look4, 
+    632 nasal_mucus0, 
+    633 nasal_mucus1, 
+    634 nasal_mucus2, 
+    635 nasal_mucus3, 
+    636 cut0, 
+    637 cut1, 
+    638 cut2, 
+    639 cut3, 
+    640 mother0, 
+    641 mother1, 
+    642 mother2, 
+    643 scratch0, 
+    644 scratch1, 
+    645 scratch2, 
+    646 scratch3, 
+    647 scratch4, 
+    648 scratch5, 
+    649 sun0, 
+    650 sun1, 
+    651 sun2, 
+    652 look_for0, 
+    653 look_for1, 
+    654 look_for2, 
+    655 look_for3, 
+    656 brain0, 
+    657 brain1, 
+    658 brain2, 
+    659 brain3, 
+    660 warm0, 
+    661 warm1, 
+    662 warm2, 
+    663 cover0, 
+    664 cover1, 
+    665 cover2, 
+    666 cover3, 
+    667 cover4, 
+    668 cover5, 
+    669 cover6, 
+    670 woman0, 
+    671 woman1, 
+    672 woman2, 
+    673 woman3, 
+    674 deep0, 
+    675 deep1, 
+    676 deep2, 
+    677 deep3, 
+    678 above0, 
+    679 above1, 
+    680 female0, 
+    681 female1, 
+    682 female2, 
+    683 put_on0, 
+    684 put_on1, 
+    685 put_on2, 
+    686 put_on3, 
+    687 put_on4, 
+    688 other0, 
+    689 other1, 
+    690 other2, 
+    691 forehead0, 
+    692 forehead1, 
+    693 forehead2, 
+    694 forehead3, 
+    695 left0, 
+    696 left1, 
+    697 rise0, 
+    698 rise1, 
+    699 rise2, 
+    700 rise3, 
+    701 rise4, 
+    702 rise5, 
+    703 dry0, 
+    704 dry1, 
+    705 dry2, 
+    706 dry3, 
+    707 dry4, 
+    708 dry5, 
+    709 how0, 
+    710 how1, 
+    711 how2, 
+    712 how3, 
+    713 how4, 
+    714 how5, 
+    715 how6, 
+    716 break0, 
+    717 break1, 
+    718 break2, 
+    719 break3, 
+    720 break4, 
+    721 where0, 
+    722 where1, 
+    723 where2, 
+    724 spin0, 
+    725 spin1, 
+    726 spin2, 
+    727 spin3, 
+    728 spin4, 
+    729 ripe0, 
+    730 ripe1, 
+    731 ripe2, 
+    732 lick0, 
+    733 lick1, 
+    734 open0, 
+    735 open1, 
+    736 open2, 
+    737 open3, 
+    738 open4, 
+    739 open5, 
+    740 tall0, 
+    741 tall1, 
+    742 tall2, 
+    743 tall3, 
+    744 bad0, 
+    745 bad1, 
+    746 bad2, 
+    747 bad3, 
+    748 bad4, 
+    749 bad5, 
+    750 bad6, 
+    751 bad7, 
+    752 bark0, 
+    753 bark1, 
+    754 bark2, 
+    755 bark3, 
+    756 bark4, 
+    757 bark5, 
+    758 breathe0, 
+    759 breathe1, 
+    760 breathe2, 
+    761 breathe3, 
+    762 breathe4, 
+    763 breathe5, 
+    764 breathe6, 
+    765 count0, 
+    766 count1, 
+    767 count2, 
+    768 count3, 
+    769 die0, 
+    770 die1, 
+    771 die2, 
+    772 die3, 
+    773 dirty0, 
+    774 dirty1, 
+    775 dirty2, 
+    776 dirty3, 
+    777 dirty4, 
+    778 dirty5, 
+    779 dirty6, 
+    780 dirty7, 
+    781 dust0, 
+    782 dust1, 
+    783 dust2, 
+    784 dust3, 
+    785 dust4, 
+    786 fat0, 
+    787 fat1, 
+    788 fat2, 
+    789 fat3, 
+    790 fat4, 
+    791 fat5, 
+    792 father0, 
+    793 father1, 
+    794 father2, 
+    795 fear0, 
+    796 fear1, 
+    797 fear2, 
+    798 fear3, 
+    799 fight0, 
+    800 fight1, 
+    801 fight2, 
+    802 fight3, 
+    803 fight4, 
+    804 five0, 
+    805 five1, 
+    806 flower0, 
+    807 flower1, 
+    808 flower2, 
+    809 flower3, 
+    810 flower4, 
+    811 fog0, 
+    812 fog1, 
+    813 fog2, 
+    814 fog3, 
+    815 fog4, 
+    816 freeze0, 
+    817 freeze1, 
+    818 freeze2, 
+    819 freeze3, 
+    820 freeze4, 
+    821 freeze5, 
+    822 fruit0, 
+    823 fruit1, 
+    824 fruit2, 
+    825 green0, 
+    826 green1, 
+    827 green2, 
+    828 guts0, 
+    829 guts1, 
+    830 heart0, 
+    831 heart1, 
+    832 here0, 
+    833 here1, 
+    834 here2, 
+    835 hunt0, 
+    836 hunt1, 
+    837 hunt2, 
+    838 ice0, 
+    839 ice1, 
+    840 ice2, 
+    841 ice3, 
+    842 ice4, 
+    843 ice5, 
+    844 lake0, 
+    845 lake1, 
+    846 lake2, 
+    847 live0, 
+    848 live1, 
+    849 live2, 
+    850 live3, 
+    851 moon0, 
+    852 moon1, 
+    853 moon2, 
+    854 narrow0, 
+    855 narrow1, 
+    856 narrow2, 
+    857 near0, 
+    858 near1, 
+    859 near2, 
+    860 person0, 
+    861 person1, 
+    862 push0, 
+    863 push1, 
+    864 push2, 
+    865 push3, 
+    866 push4, 
+    867 river0, 
+    868 river1, 
+    869 river2, 
+    870 river3, 
+    871 river4, 
+    872 rot0, 
+    873 rot1, 
+    874 rot2, 
+    875 rot3, 
+    876 rot4, 
+    877 rot5, 
+    878 rot6, 
+    879 round0, 
+    880 round1, 
+    881 round2, 
+    882 round3, 
+    883 round4, 
+    884 sea0, 
+    885 sea1, 
+    886 seed0, 
+    887 seed1, 
+    888 seed2, 
+    889 sharp0, 
+    890 sharp1, 
+    891 sharp2, 
+    892 sharp3, 
+    893 sharp4, 
+    894 short0, 
+    895 short1, 
+    896 short2, 
+    897 short3, 
+    898 sing0, 
+    899 sing1, 
+    900 sing2, 
+    901 sky0, 
+    902 sky1, 
+    903 sky2, 
+    904 smell0, 
+    905 smell1, 
+    906 smell2, 
+    907 smell3, 
+    908 smell4, 
+    909 smell5, 
+    910 smooth0, 
+    911 smooth1, 
+    912 smooth2, 
+    913 smooth3, 
+    914 smooth4, 
+    915 snow0, 
+    916 snow1, 
+    917 snow2, 
+    918 spit0, 
+    919 spit1, 
+    920 spit2, 
+    921 spit3, 
+    922 stick0, 
+    923 stick1, 
+    924 stick2, 
+    925 stick3, 
+    926 stick4, 
+    927 stick5, 
+    928 stick6, 
+    929 stick7, 
+    930 straight0, 
+    931 straight1, 
+    932 straight2, 
+    933 straight3, 
+    934 swell0, 
+    935 swell1, 
+    936 swim0, 
+    937 swim1, 
+    938 swim2, 
+    939 swim3, 
+    940 they0, 
+    941 they1, 
+    942 they2, 
+    943 they3, 
+    944 they4, 
+    945 think0, 
+    946 think1, 
+    947 think2, 
+    948 think3, 
+    949 think4, 
+    950 tree0, 
+    951 tree1, 
+    952 tree2, 
+    953 tree3, 
+    954 true0, 
+    955 true1, 
+    956 true2, 
+    957 true3, 
+    958 turn0, 
+    959 turn1, 
+    960 turn2, 
+    961 turn3, 
+    962 turn4, 
+    963 turn5, 
+    964 vomit0, 
+    965 vomit1, 
+    966 vomit2, 
+    967 vomit3, 
+    968 vomit4, 
+    969 we0, 
+    970 we1, 
+    971 we2, 
+    972 when0, 
+    973 when1, 
+    974 when2, 
+    975 when3, 
+    976 with0, 
+    977 with1, 
+    978 with2, 
+    979 with3, 
+    980 worm0, 
+    981 worm1, 
+    982 worm2, 
+    983 worm3, 
+    984 yellow0, 
+    985 yellow1, 
+    986 you_all0, 
+    987 you_all1;
+MATRIX 
+Modern_Georgian 010010011000010100100101010010100010010010101010001001000110100010011010001110101000100100100110001001001001001001101111110111100010010010010100100011000001001010001000001000011010011100011001000110101100100101000101001000011100110101000010000010010010000110100101010010001010101000100010010010101010000001000101010101011101101000100001010100110100100101100100001010001001100101000101110000101011001000100001001001000101101100010001000001011100100101000101001000000110000000100100010001000100010010010000101100001000010010001000011010101100100001001001010001010001001001010000010000010010010000010010011000110001010010000101100101001110100010010000010010001000100011100010001000101001100010010001010010010001010000001000010011000100101000101000111000000100000100000010010000010000010000101000100100011100101000011000100010100100101010000010100010010000101001000011000100001000100100001010010000100001011010010011100100100001001000010010100010110100001000100000110011010100100010001110101
+Old_Georgian    010010011001010100100101010010100011010010101010001001000110100010011010001110101000100100101110001001001101001001101111110111100011010010110100100011000101001010001000001000011010011110011001000110101100100100000101001000011110110101000010001010010011000110100101010010001010101100100010010010101011000011010101010101011101101000100001010100110100100101100100001010001001100001000101110000101011001000100001001001000101101100011001000001011100100101000101001000000110010000100100010001000100010010010000101100001000010010101000011010101100110001001001010101010011001001010000010000010010010000010010011000110001010010000101100111001110100010011010010010001000100111110010001000101001100010010001010010010001010000001010010011000110101001101000111000001100001100100110010001110100010000111000100110011100101000011010100010100100101010010010100010010001101001000011000101001000100100001010011000100001011010010011100100100001011100111010100010110100001100100000110011010100100010001110101
+Svan            001001000111010010110101010010010011001010101000100100110110010001001000100100101100010010001011100100100100100101000000001110110001001010010100010010101000101001000100000100010001001110010100100010101110011100100010100110010010010100100001000001010000010110010010001001001110101010100010001010110001110000100101010101001101100100010001001010010010010000110010101001000100011100010100000010101010101100010000101000100100101101001100100010001000010100100011001001000100001110100100011000010010001010001000101011000100001011000100001010100100010000100101001001010010000100100100010010001001001001000001011110101101100001100100010001001000011010000100010001000100010110001001000010101101110001001001011110001110001101000111001010000100100100000100100101001001001011010001001000101100001100011100100010010010100100001100110000010010101001010011000001001001000100101010100011000100000111001001010000001011001000101010000010010011000110010010011000100011000010010011000001000010001001001100001
+Megrelian       010010011001100100100101011010111010010010101001001001010010101010001010001111101010100101101110001001001001001001101000110011111001010001000010001010000101001010100010100011011001000110100000010100101000100100010011100001011010100100010000011010001001100110100111010000101110101000010011011010100011110000011001010101001101100010101001000100110110111001100001101010101000101100100100011000101011000000001101001100010101001110010000010001001110100100010001100100100101010000100111010100100001010001010100101100101010010010100011001010100010111001001101010101011000101000010010011110011010010110001110011000110001010010000101100111100010101010001011010000101000100010010000101100101001101010000101010010010001000010001001010010110110100011000010101000100010100000110100000101100001010000110010110101011100101010010010101100100100101011001000110010000101001001000011000001000010010100101010001000110010010001000000100100001001100000011010100001000100000100001010110001010100110000101100101
+Laz             010010011001000100100101001010100000010010101001001001000110101010000001001111101000100000100110101001001001001001101100000001010001010000110010001010000101001010000001000001010001000111000000010100101100110001010011000001000110110100011000111010000001100010100101010000101010101100001001010010100001001010001001010101001001100010000101000100010110110001100001001000101000100000100100100100101011100010001001001000010101001110010000001001010100100100010001100101010110010000110110010101100001010010010010101100101001010010100001011010100110010101001001010101001000101000011001010101011010000110000001001000110000001010010101100111100100100001001011011000100010100000010000001000101100101010000101010011010001000010101011011010100110100001000000010010000111100100000100000101000010010010000010010001000100100001000000100010100000101011000000101010000001000101000011010001101001010100101010000110100010010001000000010100000001100000010000100001010100100100001010001001100100100000101000101
+;
+END;
+BEGIN assumptions;
+	CHARSET fire = 1-3;
+	CHARSET nose = 4-6;
+	CHARSET go_come = 7-14;
+	CHARSET water = 15-17;
+	CHARSET mouth = 18-20;
+	CHARSET tongue = 21-22;
+	CHARSET blood = 23-24;
+	CHARSET bone = 25-27;
+	CHARSET you_SG = 28-29;
+	CHARSET root = 30-33;
+	CHARSET breast = 34-36;
+	CHARSET rain = 37-39;
+	CHARSET I_me = 40-41;
+	CHARSET name = 42-43;
+	CHARSET louse = 44-45;
+	CHARSET wing = 46-49;
+	CHARSET meat = 50-52;
+	CHARSET hand = 53-56;
+	CHARSET fly_insect = 57-59;
+	CHARSET night = 60-63;
+	CHARSET ear = 64-66;
+	CHARSET neck = 67-69;
+	CHARSET far = 70-73;
+	CHARSET do = 74-79;
+	CHARSET house = 80-83;
+	CHARSET stone = 84-86;
+	CHARSET bitter = 87-91;
+	CHARSET say = 92-97;
+	CHARSET tooth = 98-100;
+	CHARSET hair = 101-103;
+	CHARSET big = 104-106;
+	CHARSET one = 107-109;
+	CHARSET who = 110-112;
+	CHARSET it_he_her = 113-115;
+	CHARSET hit = 116-129;
+	CHARSET leg = 130-132;
+	CHARSET horn = 133-135;
+	CHARSET this = 136-140;
+	CHARSET fish = 141-143;
+	CHARSET yesterday = 144-147;
+	CHARSET drink = 148-151;
+	CHARSET black = 152-154;
+	CHARSET navel = 155-157;
+	CHARSET stand = 158-159;
+	CHARSET bite = 160-163;
+	CHARSET back = 164-169;
+	CHARSET wind = 170-174;
+	CHARSET smoke = 175-177;
+	CHARSET what = 178-180;
+	CHARSET child = 181-190;
+	CHARSET egg = 191-194;
+	CHARSET give = 195-197;
+	CHARSET new = 198-199;
+	CHARSET burn = 200-203;
+	CHARSET not = 204-208;
+	CHARSET good = 209-212;
+	CHARSET know = 213-217;
+	CHARSET knee = 218-222;
+	CHARSET sand = 223-227;
+	CHARSET laugh = 228-230;
+	CHARSET hear = 231-232;
+	CHARSET soil = 233-237;
+	CHARSET leaf = 238-243;
+	CHARSET red = 244-246;
+	CHARSET liver = 247-249;
+	CHARSET hide = 250-254;
+	CHARSET skin = 255-257;
+	CHARSET suck = 258-260;
+	CHARSET carry = 261-264;
+	CHARSET ant = 265-267;
+	CHARSET heavy = 268-271;
+	CHARSET take = 272-275;
+	CHARSET old = 276-277;
+	CHARSET eat = 278-281;
+	CHARSET thigh = 282-285;
+	CHARSET thick = 286-288;
+	CHARSET long = 289-291;
+	CHARSET blow = 292-293;
+	CHARSET wood = 294-297;
+	CHARSET run = 298-303;
+	CHARSET fall = 304-310;
+	CHARSET eye = 311-312;
+	CHARSET ash = 313-314;
+	CHARSET tail = 315-316;
+	CHARSET dog = 317-318;
+	CHARSET cry = 319-322;
+	CHARSET tie = 323-325;
+	CHARSET see = 326-329;
+	CHARSET sweet = 330-334;
+	CHARSET rope = 335-336;
+	CHARSET shade = 337-341;
+	CHARSET bird = 342-344;
+	CHARSET salt = 345-347;
+	CHARSET small = 348-352;
+	CHARSET wide = 353-356;
+	CHARSET star = 357-361;
+	CHARSET in = 362-363;
+	CHARSET hard = 364-367;
+	CHARSET crush = 368-370;
+	CHARSET mountain = 371-376;
+	CHARSET sit = 377-380;
+	CHARSET nail = 381-382;
+	CHARSET throw = 383-389;
+	CHARSET three = 390-391;
+	CHARSET right = 392-393;
+	CHARSET wash = 394-397;
+	CHARSET grasp = 398-401;
+	CHARSET branch = 402-406;
+	CHARSET man = 407-409;
+	CHARSET raw = 410-412;
+	CHARSET tomorrow = 413-416;
+	CHARSET two = 417-418;
+	CHARSET bottom = 419-421;
+	CHARSET lie_down = 422-426;
+	CHARSET snake = 427-430;
+	CHARSET cloud = 431-435;
+	CHARSET year = 436-438;
+	CHARSET tear = 439-443;
+	CHARSET ask = 444-446;
+	CHARSET weave = 447-448;
+	CHARSET at = 449-452;
+	CHARSET edge = 453-457;
+	CHARSET chin = 458-460;
+	CHARSET play = 461-464;
+	CHARSET cheek = 465-468;
+	CHARSET pus = 469-473;
+	CHARSET fly = 474-476;
+	CHARSET hole = 477-480;
+	CHARSET grow = 481-484;
+	CHARSET head = 485-488;
+	CHARSET belly = 489-492;
+	CHARSET shoulder = 493-495;
+	CHARSET claw = 496-498;
+	CHARSET which = 499-503;
+	CHARSET dig = 504-505;
+	CHARSET pull = 506-511;
+	CHARSET hot = 512-516;
+	CHARSET firewood = 517-519;
+	CHARSET remain = 520-523;
+	CHARSET cold = 524-528;
+	CHARSET feather = 529-531;
+	CHARSET cough = 532-533;
+	CHARSET thin = 534-535;
+	CHARSET grass = 536-539;
+	CHARSET foam = 540-544;
+	CHARSET sour = 545-547;
+	CHARSET full = 548-550;
+	CHARSET day = 551-552;
+	CHARSET sleep = 553-556;
+	CHARSET month = 557-558;
+	CHARSET white = 559-561;
+	CHARSET sew = 562-565;
+	CHARSET kill = 566-568;
+	CHARSET jump = 569-576;
+	CHARSET throat = 577-582;
+	CHARSET forest = 583-585;
+	CHARSET there = 586-588;
+	CHARSET find = 589-594;
+	CHARSET flow = 595-600;
+	CHARSET many = 601-605;
+	CHARSET chew = 606-610;
+	CHARSET swallow = 611-615;
+	CHARSET wet = 616-620;
+	CHARSET four = 621-622;
+	CHARSET soft = 623-626;
+	CHARSET look = 627-631;
+	CHARSET nasal_mucus = 632-635;
+	CHARSET cut = 636-639;
+	CHARSET mother = 640-642;
+	CHARSET scratch = 643-648;
+	CHARSET sun = 649-651;
+	CHARSET look_for = 652-655;
+	CHARSET brain = 656-659;
+	CHARSET warm = 660-662;
+	CHARSET cover = 663-669;
+	CHARSET woman = 670-673;
+	CHARSET deep = 674-677;
+	CHARSET above = 678-679;
+	CHARSET female = 680-682;
+	CHARSET put_on = 683-687;
+	CHARSET other = 688-690;
+	CHARSET forehead = 691-694;
+	CHARSET left = 695-696;
+	CHARSET rise = 697-702;
+	CHARSET dry = 703-708;
+	CHARSET how = 709-715;
+	CHARSET break = 716-720;
+	CHARSET where = 721-723;
+	CHARSET spin = 724-728;
+	CHARSET ripe = 729-731;
+	CHARSET lick = 732-733;
+	CHARSET open = 734-739;
+	CHARSET tall = 740-743;
+	CHARSET bad = 744-751;
+	CHARSET bark = 752-757;
+	CHARSET breathe = 758-764;
+	CHARSET count = 765-768;
+	CHARSET die = 769-772;
+	CHARSET dirty = 773-780;
+	CHARSET dust = 781-785;
+	CHARSET fat = 786-791;
+	CHARSET father = 792-794;
+	CHARSET fear = 795-798;
+	CHARSET fight = 799-803;
+	CHARSET five = 804-805;
+	CHARSET flower = 806-810;
+	CHARSET fog = 811-815;
+	CHARSET freeze = 816-821;
+	CHARSET fruit = 822-824;
+	CHARSET green = 825-827;
+	CHARSET guts = 828-829;
+	CHARSET heart = 830-831;
+	CHARSET here = 832-834;
+	CHARSET hunt = 835-837;
+	CHARSET ice = 838-843;
+	CHARSET lake = 844-846;
+	CHARSET live = 847-850;
+	CHARSET moon = 851-853;
+	CHARSET narrow = 854-856;
+	CHARSET near = 857-859;
+	CHARSET person = 860-861;
+	CHARSET push = 862-866;
+	CHARSET river = 867-871;
+	CHARSET rot = 872-878;
+	CHARSET round = 879-883;
+	CHARSET sea = 884-885;
+	CHARSET seed = 886-888;
+	CHARSET sharp = 889-893;
+	CHARSET short = 894-897;
+	CHARSET sing = 898-900;
+	CHARSET sky = 901-903;
+	CHARSET smell = 904-909;
+	CHARSET smooth = 910-914;
+	CHARSET snow = 915-917;
+	CHARSET spit = 918-921;
+	CHARSET stick = 922-929;
+	CHARSET straight = 930-933;
+	CHARSET swell = 934-935;
+	CHARSET swim = 936-939;
+	CHARSET they = 940-944;
+	CHARSET think = 945-949;
+	CHARSET tree = 950-953;
+	CHARSET TRUE = 954-957;
+	CHARSET turn = 958-963;
+	CHARSET vomit = 964-968;
+	CHARSET we = 969-971;
+	CHARSET when = 972-975;
+	CHARSET with = 976-979;
+	CHARSET worm = 980-983;
+	CHARSET yellow = 984-985;
+	CHARSET you_all = 986-987;
+END;
