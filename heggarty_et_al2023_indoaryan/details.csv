@@ -1,0 +1,20 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name,Family_ID,Classification
+Assamese,Assamese,,26.0876,91.2932,assa1263,,,Assamese,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/indo1323/oriy1254/gaud1237/kamt1240/assa1262
+Bengali,Bengali,,24,90,beng1280,,xd664,Bengali,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/indo1323/oriy1254/gaud1237/gaud1238
+Bhojpuri,Bhojpuri,,26.458455,84.817115,bhoj1244,,xd663,Bhojpuri,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/biha1245/mait1254/bhoj1246
+Gawarbati,Gawarbati,,35.1982,71.5428,gawa1247,,,Gawar-Bati,indo1319,indo1319/clas1257/indo1320/indo1321/gawa1246
+Gawri,Gawri,,35.5303,72.5738,kala1373,,,Gawri,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/dard1244/nucl1819/kohi1251/dirs1236
+Hindi,Hindi,,25,77,hind1269,,,Hindi,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/indo1322/west2812/hind1270
+Kashmiri,Kashmiri,,34.166825,74.330455,kash1277,,xd670,Kashmiri,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/dard1244/kash1285
+Khowar,Khowar,,36,72,khow1242,,,Khowar,indo1319,indo1319/clas1257/indo1320/indo1321
+Magahi,Magahi,,25.0915,85.3335,maga1260,,,Magahi,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/biha1245/mait1254
+Maithili,Maithili,,26.3817,86.2211,mait1250,,xd662,Maithili,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/biha1245/mait1254
+Marathi,Marathi,,17.9344,76.6665,mara1378,,,Marathi,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/indo1325/mara1416/mara1422/oldm1248/mode1268
+Nepali,Nepali,,28,85,nepa1254,,,Nepali,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/indo1310/east1436
+Pali,Pali,,24.5271,82.251,pali1273,,,Pali,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/biha1245
+Palula,Palula,,,,ashr1238,,,Ashreti,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/dard1244/nucl1819/shin1270/west2860/palu1255/phal1254
+PashaiNorthWest,PashaiNorthWest,,34.931823,70.087592,nort2665,,,Northwest Pashayi,indo1319,indo1319/clas1257/indo1320/indo1321/pash1270/west2387
+Punjabi,Punjabi,,30.0368,75.6702,panj1256,,,Eastern Panjabi,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/indo1324/sind1278/lahn1241/east2727
+Sinhalese,Sinhalese,,8,81,sinh1246,,xd692,Sinhala,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/sinh1245/sinh1247
+Urdu,Urdu,,25,67,urdu1245,,,Urdu,indo1319,indo1319/clas1257/indo1320/indo1321/midd1375/cont1248/midl1245/shau1239/indo1322/west2812/hind1270
+VedicEarly,VedicEarly,,20,77,sans1269,,xd665,Sanskrit,indo1319,indo1319/clas1257/indo1320/indo1321

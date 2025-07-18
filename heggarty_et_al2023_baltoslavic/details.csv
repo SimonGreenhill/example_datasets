@@ -1,0 +1,28 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name,Family_ID,Classification
+Belarusian,Belarusian,,53.2307,25.6038,bela1254,,xd570,Belarusian,indo1319,indo1319/clas1257/balt1263/slav1255/east1426
+Bulgarian,Bulgarian,,43.3646,25.047,bulg1262,,xd569,Bulgarian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/east2269/mace1252
+Czech,Czech,,49.873398,15.10437,czec1258,,xd567,Czech,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/czec1260
+Kashubian,Kashubian,,54.2996,18.6163,kash1274,,,Kashubian,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/lech1241
+Latgalian,Latgalian,,,,east2282,,,East Latvian,indo1319,indo1319/clas1257/balt1263/east2280/latv1249
+Latvian,Latvian,,56.826108,24.309118,latv1249,,xd559,Latvian,indo1319,indo1319/clas1257/balt1263/east2280
+Lithuanian,Lithuanian,,55.1429,23.9601,lith1251,,xd573,Lithuanian,indo1319,indo1319/clas1257/balt1263/east2280
+Macedonian,Macedonian,,41.5957,21.7932,mace1250,,,Macedonian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/east2269/mace1252
+MacedonianSuho,MacedonianSuho,,41.5957,21.7932,mace1250,,,Macedonian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/east2269/mace1252
+MacedonianVisoka,MacedonianVisoka,,41.5957,21.7932,mace1250,,,Macedonian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/east2269/mace1252
+OldChurchSlavonic,OldChurchSlavonic,,43.7171,22.8442,chur1257,,,Church Slavic,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/east2269
+OldCzech,OldCzech,,49.873398,15.10437,czec1258,,xd567,Czech,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/czec1260
+OldNovgorod,OldNovgorod,,54.813,31.827,oldr1238,,,Old Russian,indo1319,indo1319/clas1257/balt1263/slav1255/east1426
+OldPolish,OldPolish,,51.8439,18.6255,poli1260,,,Polish,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/lech1241/poli1262
+OldPrussian,OldPrussian,,52.394,14.757,prus1238,,,Old Prussian,indo1319,indo1319/clas1257/balt1263
+Polabian,Polabian,,52,14,pola1255,,,Polabian,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/lech1241
+Polish,Polish,,51.8439,18.6255,poli1260,,,Polish,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/lech1241/poli1262
+Russian,Russian,,59,50,russ1263,,xd548,Russian,indo1319,indo1319/clas1257/balt1263/slav1255/east1426
+Rusyn,Rusyn,,48.7171,22.9579,rusy1239,,,Rusyn,indo1319,indo1319/clas1257/balt1263/slav1255/east1426/ukra1257
+SerboCroatian,SerboCroatian,,45.555,15.982,croa1245,,,Croatian Standard,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/west2804/sout1528/shto1241/news1236/east2821
+Slovak,Slovak,,48.545705,18.78479,slov1269,,,Slovak,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/czec1260
+Slovene,Slovene,,46.2543,14.7766,slov1268,,,Slovenian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/west2804
+SloveneEarlyModern,SloveneEarlyModern,,46.2543,14.7766,slov1268,,,Slovenian,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/west2804
+SloveneKostel,SloveneKostel,,,,lowe1384,,,Lower Carniola,indo1319,indo1319/clas1257/balt1263/slav1255/sout3147/west2804/slov1268
+SorbianLower,SorbianLower,,51.6621,13.9407,lowe1385,,,Lower Sorbian,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/sorb1249
+SorbianUpper,SorbianUpper,,51.2403,14.4098,uppe1395,,,Upper Sorbian,indo1319,indo1319/clas1257/balt1263/slav1255/west2792/sorb1249
+Ukrainian,Ukrainian,,49.796,29.945,ukra1253,,,Ukrainian,indo1319,indo1319/clas1257/balt1263/slav1255/east1426/ukra1257
