@@ -1,0 +1,41 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name,Family_ID
+Ache,Ache,,-25.5865,-56.4697,ache1246,,,Aché,tupi1275
+Amondawa,Amondawa,,-9.04023,-62.3064,amun1246,,,Amundava,tupi1275
+Anambe,Anambe,,-2.71119,-49.303,anam1249,,,Anambé,tupi1275
+Apiaka,Apiaka,,-7.84711,-57.91,apia1248,,,Apiaká,tupi1275
+Arawete,Arawete,,-4.90246,-52.5001,araw1273,,,Araweté,tupi1275
+Asurini_Tocantins,Asurini_Tocantins,,-3.59359,-49.8991,toca1235,,,Tocantins Asurini,tupi1275
+Asurini_Xingu,Asurini_Xingu,,-4.13463,-52.321,xing1248,,,Xingú Asuriní,tupi1275
+Ava_Canoeiro,Ava_Canoeiro,,-13.6081,-48.1336,avac1239,,,Avá-Canoeiro,tupi1275
+Aweti,Aweti,,-12.381944,-53.391944,awet1244,,xd1406,Awetí,tupi1275
+Chiriguano,Chiriguano,,-20.42,-63.37,east2555,,xd1394,Eastern Bolivian Guaraní,tupi1275
+Guaja,Guaja,,-3.93574,-46.3683,guaj1256,,,Guajá,tupi1275
+Guajajara,Guajajara,,-4.69461,-45.7081,guaj1255,,,Guajajára,tupi1275
+Guarani,Guarani,,-25.60551,-57.08816,para1311,,,Paraguayan Guaraní,tupi1275
+Guarayo,Guarayo,,-15.8247,-61.6934,guar1292,,,Guarayu,tupi1275
+Kaapor,Kaapor,,-2.46455,-46.2204,urub1250,,,Urubú-Kaapor,tupi1275
+Kaiowa,Kaiowa,,-24.589,-54.6815,kaiw1246,,,Kaiwá,tupi1275
+Kamajura,Kamajura,,-12.2661,-53.4651,kama1373,,,Kamayurá,tupi1275
+Kayabi,Kayabi,,-11.2747,-55.5479,kaya1329,,,Kayabí,tupi1275
+Kokama,Kokama,,-4.5,-74,coca1259,,xd1363,Cocama-Cocamilla,tupi1275
+Mawe,Mawe,,-3.63897,-56.8749,sate1243,,xd1357,Sateré-Mawé,tupi1275
+Mbya,Mbya,,-26.0188,-52.711,mbya1239,,,Mbyá Guaraní,tupi1275
+Nheengatu,Nheengatu,,1.04503,-66.9646,nhen1239,,,Nhengatu,tupi1275
+Old_Guarani,Old_Guarani,,,,oldp1258,,,Old Guarani,tupi1275
+Omagua,Omagua,,-3.526,-69.1667,omag1248,,,Omagua,tupi1275
+Parakana,Parakana,,-4.64681,-50.0621,para1312,,,Parakanã,tupi1275
+Parintintin,Parintintin,,-7.92626,-61.936,tenh1241,,,Tenharim-Parintintin-Diahoi,tupi1275
+Siriono,Siriono,,-15.5298,-63.9688,siri1273,,xd1362,Sirionó,tupi1275
+Surui_Aikewara,Surui_Aikewara,,-5.9271,-48.588,suru1261,,,Suruí Do Pará,tupi1275
+Tapiete,Tapiete,,-21.4169,-62.684,tapi1253,,,Tapieté,tupi1275
+Tapirape,Tapirape,,-10.5373,-50.5438,tapi1254,,xd1354,Tapirapé,tupi1275
+Teko,Teko,,3.23694,-52.3699,emer1243,,,Teko,tupi1275
+Tembe,Tembe,,-2.6123,-48.2359,temb1276,,xd1414,Tenetehara,tupi1275
+Tenharim,Tenharim,,,,nucl1663,,,Tenharim,tupi1275
+Tupinamba,Tupinamba,,-22.807778,-42.106389,tupi1273,,,Tupinambá,tupi1275
+Urueuwauwau,Urueuwauwau,,-10.9176,-63.8086,urue1240,,,Uru-Eu-Wau-Wau,tupi1275
+Warazu,Warazu,,-12.8553,-63.1903,paus1244,,,Warázu,tupi1275
+Wayampi,Wayampi,,1.73817,-52.6887,waya1270,,,Wayampi,tupi1275
+Xeta,Xeta,,-24.9408,-52.2266,xeta1241,,xd921,Xetá,tupi1275
+Yuki,Yuki,,-16.7875,-64.9438,yuqu1240,,xd918,Yuqui,tupi1275
+Zoe,Zoe,,-1.77208,-55.50746,zoee1240,,,Zo'é,tupi1275
